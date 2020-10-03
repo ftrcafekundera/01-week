@@ -138,8 +138,8 @@ p {
 }
 
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
-    /*The images in this cluster have been assigned null alt attributes, as they do not contain informative infromation;
-rather, they are used solely for decorative purpose.*/
+    /*The images in this cluster have been assigned null alt attributes, as they do not contain informative information;
+rather, they are used solely for decorative purposes.*/
     /*Adds selected indicators to the images in the ASIDE*/
     display: block;
     margin: 10px auto;
