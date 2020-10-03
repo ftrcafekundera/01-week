@@ -118,6 +118,8 @@ p {
     text-align: center;
 }
 
+/*The images in this cluster have been assigned null alt attributes, as the images do not contain informative infromation;
+rather, they are used solely for decorative purpose.*/
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
