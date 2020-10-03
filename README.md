@@ -8,6 +8,8 @@ This was a project to enhance the search engine optimization (SEO) of a webpage,
 
 To access the webpage, please nagivate to the following link (https://ftrcafekundera.github.io/01-week/). If you have successfully reached the webpage, you will see the below screen:
 
+![Screenshot-01-homework](https://user-images.githubusercontent.com/71603259/95000864-8fbfae00-0592-11eb-88a0-cc3252a1054b.GIF)
+
 # Usage
 
 To effectively utilize the webpage, please navigate to the tabs in the top right corner of the page. If you click on one of the tabs (e.g., Search Engine Optimization), you will automatically be redirected to that section of the webpage.
