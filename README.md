@@ -12,7 +12,7 @@ To access the webpage, please nagivate to the following link (https://ftrcafekun
 
 To effectively utilize the webpage, please navigate to the tabs in the top right corner of the page. If you click on one of the tabs (e.g., Search Engine Optimization), you will automatically be redirected to that section of the webpage.
 
-# Licence
+# License
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
