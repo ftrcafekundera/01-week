@@ -20,6 +20,10 @@ Finally, on the very bottom of the page, you will notice the creator of the webp
 
 This webpage was created using HTML and CSS coding languages.
 
+# Additional Information
+
+Please click on the following link to be redirected to the GitHub profile of the programmer who completed this project (https://github.com/ftrcafekundera).
+
 # License
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
